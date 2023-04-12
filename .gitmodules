@@ -1,0 +1,3 @@
+[submodule "Angular-SpringBoot"]
+	path = Angular-SpringBoot
+	url = https://github.com/PriChowdary/Angular-SpringBoot.git
